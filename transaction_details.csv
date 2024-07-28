@@ -1,0 +1,8 @@
+Reference,Transaction Date,Customer (email),Amount Paid,Paystack Fees,Total Fees,Amount Due,Settlement Date,Gateway Response,Customer (fullname),Transaction ID,Card Type,Card Bank,Country Code,Currency,Subaccount,Subaccount Amount Due,Source,Source Identifier,Status,Channel,Requested Amount,Matric No,Department
+T546290156576893,"Feb 3rd, 2024 06:30:56 AM",samuel@bowen.edu.ng,400000,2000,2000,398000,,Successful,Samuel Tubi,3516486062,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,400000,BU21CSC4535,CIT
+T677320448456125,"Feb 3rd, 2024 12:38:27 PM",samuel@bowen.edu.ng,458875,2000,2000,456875,,[Test] Approved,Samuel Tubi,3517773799,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,458875,BU21CSC4535,CIT
+T522633970344074,"Feb 3rd, 2024 12:45:09 PM",samuel@bowen.edu.ng,439000,2000,2000,437000,,Successful,Samuel Tubi,3517800690,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,439000,BU21CSC4535,CIT
+T960741334508494,"Feb 3rd, 2024 12:59:14 PM",samuel@bowen.edu.ng,450000,2000,2000,448000,,Successful,Samuel Tubi,3517849960,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,450000,BU21CSC4535,CIT
+T708570518946908,"Feb 3rd, 2024 01:00:43 PM",skullbreaker210@gmail.com,400000,2000,2000,398000,,Successful,Kolade Awoleye,3517855174,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,400000,BU20CIT1089,CIT
+T182574720484527,"Feb 3rd, 2024 01:04:39 PM",samuel@bowen.edu.ng,450000,2000,2000,448000,,Successful,Samuel Tubi,3517867541,visa ,TEST BANK,NG,NGN,,,checkout,,success,card,450000,BU21CSC4535,CIT
+T965035214775809,"Feb 3rd, 2024 01:08:03 PM",samuel@bowen.edu.ng,440000,2000,2000,438000,,Successful,Samuel Tubi,3517878315,visa ,TEST BANK,NG,NGN,,,checkout,,failure,card,440000,BU21CSC4535,CIT
